@@ -1,7 +1,7 @@
 {
   "name": "chatties",
   "version": "0.1.0",
-  "homepage": "https://soham1300.github.io/Chatties",
+  "homepage": "https://soham1300.github.io/chatties",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
